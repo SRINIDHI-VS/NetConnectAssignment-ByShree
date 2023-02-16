@@ -1,0 +1,30 @@
+h2 {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+path {
+    stroke: white;
+    stroke-width: 0.5px;
+}
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+.legend {
+    font-size: 12px;
+}
+
+div.tooltip {   
+  position: absolute;           
+  text-align: center;           
+  width: 145px;                  
+  height: 22px;                 
+  padding: 5px;             
+  font-size: 10px;     
+  background: #FFFFE0;
+  border: 1px;      
+  border-radius: 8px;           
+  pointer-events: none;         
+}  
